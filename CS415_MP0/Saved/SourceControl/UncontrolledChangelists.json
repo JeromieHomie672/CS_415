@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/CS_415/CS415_MP0/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/CS_415/CS415_MP0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"D:/CS_415/CS415_MP0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/JD/H3YAFW1T86I08HOV9ZE2FQ.uasset",
+				"D:/CS_415/CS415_MP0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PJ/Z5LKSORMREV0P54299G8U7.uasset",
+				"D:/CS_415/CS415_MP0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/GB/B6J10XDIM2XC7N7JSHU0C3.uasset",
+				"D:/CS_415/CS415_MP0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/O6/X9Y81NB1ZD3PPKI9E95RT7.uasset",
+				"D:/CS_415/CS415_MP0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/WG/C0KTORJB578ZMEF20HY5L4.uasset",
+				"D:/CS_415/CS415_MP0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/94/MOT7PSPRBPGNUFLWSGFHVK.uasset",
+				"D:/CS_415/CS415_MP0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/QY/H6VFJA45979XLT91CI9WOD.uasset",
+				"D:/CS_415/CS415_MP0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/8T/RONILJ4968M41W00VXO4K7.uasset",
+				"D:/CS_415/CS415_MP0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/F5/IT7PJILPSNTELJA8KXRC7D.uasset",
+				"D:/CS_415/CS415_MP0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/G2/DLOSPNINM32WVZP5LDF1V2.uasset",
+				"D:/CS_415/CS415_MP0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/AP/3SYKVOMAS8UBL8ODQQB867.uasset",
+				"D:/CS_415/CS415_MP0/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/CS_415/CS415_MP0/Content/Maps/OurLevel.umap"
+			]
+		}
+	]
+}
